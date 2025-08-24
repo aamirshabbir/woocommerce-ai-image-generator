@@ -45,10 +45,6 @@ woocommerce-ai-image-generator/
     └── class-ai-image-generator.php
 ```
 
-## Screenshots
-1. Admin page: Generate images
-2. Updated product with AI image
-
 ## Contributing
 PRs are welcome. Please open an issue before major changes.
 
