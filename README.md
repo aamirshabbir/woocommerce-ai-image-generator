@@ -1,8 +1,7 @@
 # WooCommerce AI Image Generator
 
-Automatically generates product images for WooCommerce products that are missing images — powered by an AI image service (Pollinations by default).
+Automatically generates product images for WooCommerce products that are missing images
 
-![Banner](assets/banner.png)
 
 ## Features
 - Scan WooCommerce products without a featured image
